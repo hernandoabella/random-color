@@ -16,8 +16,7 @@ A simple web app that generates a random hex color with each button click.
 You can save these files (`index.html`, `style.css`, `script.js`) in a local folder and open `index.html` in your browser to see the app in action.
 
 ## Screenshot 📷
-![Screenshot 2024-10-21 193944](https://github.com/user-attachments/assets/c0fd5fa4-32d1-4462-906b-82c9e46e7c51)
-
+![Screenshot 2024-10-21 215919](https://github.com/user-attachments/assets/514b8f70-3fd1-4130-9f1c-3278534eca4b)
 
 ## Features
 - Generates a random hex color
